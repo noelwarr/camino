@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.description = "Sugar syntax for your path"
   s.authors     = ["Noel Warren"]
   s.email       = 'noelwarr@gmail.com'
-  s.files       = ["lib/path.rb"]
+  s.files       = ["lib/camino.rb"]
   s.license       = 'MIT'
 end
