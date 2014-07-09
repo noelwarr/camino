@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'Path'
+  s.name        = 'camino'
   s.version     = '0.0.0'
   s.date        = '2014-06-28'
   s.summary			= "Sugar syntax for your path"
